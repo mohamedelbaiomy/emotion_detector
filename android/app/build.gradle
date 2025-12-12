@@ -6,8 +6,8 @@ plugins {
 
 android {
     namespace = "com.example.emotion_detector"
-    compileSdk = 35
-    ndkVersion = "29.0.13113456"
+    compileSdk = 36
+    ndkVersion = "29.0.14206865"
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
