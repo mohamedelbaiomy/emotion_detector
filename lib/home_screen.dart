@@ -1,6 +1,6 @@
 import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
-import 'package:tensorflow_lite_flutter/tensorflow_lite_flutter.dart';
+import 'package:flutter_tensorflow_lite/flutter_tensorflow_lite.dart';
 import 'main.dart';
 
 class MyHomePage extends StatefulWidget {
